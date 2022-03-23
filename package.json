@@ -1,5 +1,5 @@
 {
-  "name": "taxiTracker",
+  "name": "taxiny",
   "description": "Tracks a single taxi on a single day from the 2013 data",
   "version": "0.0.1",
   "private": true,
